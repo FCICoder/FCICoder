@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" />
-<img alighn="left" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width ="200">
+<img alighn="left" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width ="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fcicoder&label=Profile%20views&color=0e75b6&style=flat" alt="fcicoder" /> </p>
 
