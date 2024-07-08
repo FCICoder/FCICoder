@@ -1,5 +1,4 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
-
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Mahmoud+Mohamed;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things)]
 
@@ -12,6 +11,16 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fcicoder" alt="fcicoder" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@mahmoud88575945" target="blank"><img src="https://img.shields.io/twitter/follow/@mahmoud88575945?logo=twitter&style=for-the-badge" alt="@mahmoud88575945" /></a> </p>
+
+- 🔭 I’m currently working on **FoodDelivery Web App**
+
+- 🌱 I’m currently learning **more critical**
+
+- 💬 Ask me about **MEARN**
+
+- 📫 How to reach me **mahmoud.aadel1998@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 
 - 👨‍💻 All of my projects are available at [https://port-folio-one-roan.vercel.app/](https://port-folio-one-roan.vercel.app/)
 
