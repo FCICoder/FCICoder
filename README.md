@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Mahmoud+Mohamed;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things)]()
 
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<img alighn="center" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width ="400">
+<img align="center" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width ="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fcicoder&label=Profile%20views&color=0e75b6&style=flat" alt="fcicoder" /> </p>
 
