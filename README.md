@@ -1,6 +1,6 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]()
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Mahmoud+Mohamed;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Mahmoud+Mohamed;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things)]()
 
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="center" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width ="400">
@@ -29,8 +29,8 @@
 
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/@mahmoud88575945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mahmoud88575945" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-mohamed-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-mohamed-ahmed" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/ma_hmoud85?igshid=yw5qytbmcmx6z2ri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/ma_hmoud85?igshid=yw5qytbmcmx6z2ri" height="30" width="40" /></a>
